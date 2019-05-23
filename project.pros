@@ -1,7 +1,7 @@
 {
     "py/object": "pros.conductor.project.Project",
     "py/state": {
-        "project_name": "Worlds",
+        "project_name": "Nebula V0.1",
         "target": "v5",
         "templates": {
             "kernel": {
